@@ -1,6 +1,6 @@
-# Adv. Priyanka — 3D Advocate Portfolio
+# Adv. Priyanka —  Advocate Portfolio
 
-Responsive advocate portfolio built with HTML, CSS, JavaScript, Three.js and PHP.
+Responsive advocate portfolio built with HTML, CSS, JavaScript and PHP.
 When a visitor submits the **consultation request** form, the details are **emailed to priyankaladvocate@gmail.com**
 and the visitor sees a "Request sent!" confirmation. (No database, admin panel or tracking page is used.)
 
